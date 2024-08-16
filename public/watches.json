@@ -1,0 +1,152 @@
+[
+    {
+        "id": 1,
+        "brand": "Apple",
+        "model": "Apple Watch Series 8",
+        "price": 399,
+        "features": [
+            "GPS",
+            "Heart Rate Monitor",
+            "Water Resistant",
+            "Sleep Tracking",
+            "ECG"
+        ],
+        "batteryLife": "18 hours",
+        "color": "Space Gray"
+    },
+    {
+        "id": 2,
+        "brand": "Samsung",
+        "model": "Galaxy Watch 6",
+        "price": 349,
+        "features": [
+            "GPS",
+            "Heart Rate Monitor",
+            "Blood Pressure Monitor",
+            "Sleep Tracking",
+            "LTE"
+        ],
+        "batteryLife": "40 hours",
+        "color": "Black"
+    },
+    {
+        "id": 3,
+        "brand": "Fitbit",
+        "model": "Versa 4",
+        "price": 229,
+        "features": [
+            "Heart Rate Monitor",
+            "Sleep Tracking",
+            "Water Resistant",
+            "Built-in GPS",
+            "Stress Tracking"
+        ],
+        "batteryLife": "6 days",
+        "color": "Rose Gold"
+    },
+    {
+        "id": 4,
+        "brand": "Garmin",
+        "model": "Forerunner 255",
+        "price": 349,
+        "features": [
+            "GPS",
+            "Heart Rate Monitor",
+            "VO2 Max",
+            "Sleep Tracking",
+            "Pulse Ox"
+        ],
+        "batteryLife": "14 days",
+        "color": "Gray"
+    },
+    {
+        "id": 5,
+        "brand": "Amazfit",
+        "model": "GTR 4",
+        "price": 199,
+        "features": [
+            "GPS",
+            "Heart Rate Monitor",
+            "Sleep Tracking",
+            "Blood Oxygen Monitor",
+            "Stress Monitor"
+        ],
+        "batteryLife": "14 days",
+        "color": "Black"
+    },
+    {
+        "id": 6,
+        "brand": "Huawei",
+        "model": "Watch GT 3",
+        "price": 249,
+        "features": [
+            "GPS",
+            "Heart Rate Monitor",
+            "Sleep Tracking",
+            "SpO2 Monitoring",
+            "14-day Battery Life"
+        ],
+        "batteryLife": "14 days",
+        "color": "Brown Leather"
+    },
+    {
+        "id": 7,
+        "brand": "TicWatch",
+        "model": "Pro 5",
+        "price": 299,
+        "features": [
+            "GPS",
+            "Heart Rate Monitor",
+            "Sleep Tracking",
+            "Dual Display",
+            "Google Assistant"
+        ],
+        "batteryLife": "45 days",
+        "color": "Black"
+    },
+    {
+        "id": 8,
+        "brand": "Fossil",
+        "model": "Gen 6",
+        "price": 299,
+        "features": [
+            "GPS",
+            "Heart Rate Monitor",
+            "SpO2 Tracking",
+            "Sleep Tracking",
+            "Google Assistant"
+        ],
+        "batteryLife": "24 hours",
+        "color": "Silver"
+    },
+    {
+        "id": 9,
+        "brand": "Suunto",
+        "model": "7",
+        "price": 399,
+        "features": [
+            "GPS",
+            "Heart Rate Monitor",
+            "Offline Maps",
+            "Sleep Tracking",
+            "Wear OS"
+        ],
+        "batteryLife": "12 hours (GPS Mode)",
+        "color": "Black"
+    },
+    {
+        "id": 10,
+        "brand": "Withings",
+        "model": "ScanWatch",
+        "price": 279,
+        "features": [
+            "Heart Rate Monitor",
+            "ECG",
+            "SpO2 Tracking",
+            "Sleep Tracking",
+            "Water Resistant"
+        ],
+        "batteryLife": "30 days",
+        "color": "White"
+    }
+]

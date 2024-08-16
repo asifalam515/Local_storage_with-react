@@ -1,0 +1,102 @@
+[
+    {
+        "id": 1,
+        "name": "AquaPure Water Bottle",
+        "brand": "AquaPure",
+        "volume_ml": 500,
+        "price_usd": 1.99,
+        "color": "Blue",
+        "material": "Plastic",
+        "in_stock": true
+    },
+    {
+        "id": 2,
+        "name": "EcoGlass Bottle",
+        "brand": "EcoLife",
+        "volume_ml": 750,
+        "price_usd": 7.49,
+        "color": "Clear",
+        "material": "Glass",
+        "in_stock": true
+    },
+    {
+        "id": 3,
+        "name": "HydroSteel Flask",
+        "brand": "HydroMax",
+        "volume_ml": 1000,
+        "price_usd": 12.99,
+        "color": "Silver",
+        "material": "Stainless Steel",
+        "in_stock": false
+    },
+    {
+        "id": 4,
+        "name": "Sporty Sipper",
+        "brand": "FitHydrate",
+        "volume_ml": 600,
+        "price_usd": 9.99,
+        "color": "Red",
+        "material": "Aluminum",
+        "in_stock": true
+    },
+    {
+        "id": 5,
+        "name": "ThermoInsulated Bottle",
+        "brand": "ThermoPlus",
+        "volume_ml": 500,
+        "price_usd": 15.99,
+        "color": "Black",
+        "material": "Insulated Steel",
+        "in_stock": true
+    },
+    {
+        "id": 6,
+        "name": "ChillMate Bottle",
+        "brand": "CoolWater",
+        "volume_ml": 800,
+        "price_usd": 6.99,
+        "color": "Green",
+        "material": "Plastic",
+        "in_stock": false
+    },
+    {
+        "id": 7,
+        "name": "Urban Flask",
+        "brand": "CityHydro",
+        "volume_ml": 500,
+        "price_usd": 11.49,
+        "color": "Matte Grey",
+        "material": "Stainless Steel",
+        "in_stock": true
+    },
+    {
+        "id": 8,
+        "name": "PureFlow Bottle",
+        "brand": "FlowPure",
+        "volume_ml": 650,
+        "price_usd": 8.99,
+        "color": "White",
+        "material": "BPA-Free Plastic",
+        "in_stock": true
+    },
+    {
+        "id": 9,
+        "name": "Titanium Travel Bottle",
+        "brand": "TitanFlow",
+        "volume_ml": 900,
+        "price_usd": 19.99,
+        "color": "Titanium Grey",
+        "material": "Titanium",
+        "in_stock": false
+    },
+    {
+        "id": 10,
+        "name": "Commuter Bottle",
+        "brand": "EasySip",
+        "volume_ml": 750,
+        "price_usd": 5.49,
+        "color": "Yellow",
+        "material": "Plastic",
+        "in_stock": true
+    }
+]
